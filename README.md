@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website<br/>
-  <a href="https://GAREH.me/" target="_blank">elbarhichi.me</a>
+  <a href="https://GAREH.me/" target="_blank">gareh.me</a>
 </h2>
 
 
